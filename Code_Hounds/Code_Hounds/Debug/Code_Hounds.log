@@ -1,0 +1,3 @@
+﻿  Code_karni_hai.cpp
+g:\projects\code_hounds\code_hounds\code_karni_hai.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Code_Hounds.vcxproj -> G:\Projects\Code_Hounds\Debug\Code_Hounds.exe
